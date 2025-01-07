@@ -4,3 +4,4 @@
 
 - <b> Microsoft Troubleshooting HomeLab Environment (Microsoft 365 Apps)</b>
   - IT Helpdesk L1: Emails Not Sending or Receiving Troubleshooting (https://github.com/ericmulumba/Helpdesk-L1-Outlook-Issue)
+  - IT Helpdesk L1: Outlook Won't Open ()
